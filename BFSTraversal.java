@@ -17,7 +17,7 @@ class BFSNode {
 	}
 }
 
-/* Class to print Level Order Traversal */
+/*Class to print Level Order Traversal */
 class BinaryTree {
 
 	BFSNode root;
